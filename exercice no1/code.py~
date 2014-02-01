@@ -33,8 +33,6 @@ while i < 9:
     
 
 print "Tirage : %s" % (" ".join(tirage).upper())
-
-#TODO FRED: test voir si ça règle les tirets
 tirage.append("-")
 
 # on récupère le dictionnaire dans un tableau
